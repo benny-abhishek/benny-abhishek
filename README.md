@@ -1,5 +1,6 @@
-![gitartwork](gitartwork.svg)
+<a href="https://github.com/benny-abhishek/benny-abhishek"><img src="" height="60px" width="60px" /></a>
 
+![](https://komarev.com/ghpvc/?username=benny-abhishek&color=blue&style=flat-square)
 
 - 🔭 I’m currently studying in PSG College of technology.
 - 🌱 I’m currently learning Data Analytics & Visualization
@@ -9,7 +10,7 @@
 
 ### Skill Set
 
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img align="left" src="https://en.wikiversity.org/wiki/File:Python.svg" height="60px" width="60px" /></a><a href="https://en.wikipedia.org/wiki/C%2B%2B"><a href="https://www.java.com/en/"><img src="" height="60px" width="100px" /></a><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" height="60px" width="60px" /></a><a href="https://www.python.org/"><img align="left" src="https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg" height="60px" width="60px" /></a><a href="https://www.java.com/en/"><img src="https://en.wikipedia.org/wiki/Java_%28programming_language%29" height="60px" width="100px" /></a>
+<a href=""><img align="left" src="python.jpeg" height="60px" width="60px" /></a><a href="https://en.wikipedia.org/wiki/C%2B%2B"><a href="https://www.java.com/en/"><img src="r.jpeg" height="60px" width="100px" /></a><img align="left" src="java.png" height="60px" width="60px" /></a><a href="https://www.python.org/"><img align="left" src="c++.png" height="60px" width="60px" /></a><a href="https://www.java.com/en/"><img src="c.png" height="60px" width="100px" /></a>
 
 ### Connect with me
 
