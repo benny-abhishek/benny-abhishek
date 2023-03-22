@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=benny-abhishek&color=blue&style=flat-square)
 
+![gitartwork](gitartwork.svg)
+
 ### Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=benny-abhishek&margin-w=5&row=1&theme=buefy)](https://github.com/ryo-ma/github-profile-trophy)
