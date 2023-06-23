@@ -11,7 +11,7 @@
 ### So...
 
 - 🔭 I’m currently studying in PSG College of technology.
-- 🌱 I’m currently learning Data Analytics & Visualization
+- 🌱 I’m currently learning Machine Learning
 - ⚡ fact: Numbers don't Lie.
 
 ### Stats
