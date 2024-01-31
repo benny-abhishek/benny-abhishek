@@ -20,24 +20,21 @@
   </a>
 </p>
 
-### Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=benny-abhishek&margin-w=5&row=1&theme=buefy)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### My Stats
 
 <table style="border-collapse: collapse;">
    <tr>
-    <td><p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=benny-abhishek&theme=codeSTACKr"></td></p>
-    <td><p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=benny-abhishek&theme=codeSTACKr"></td></p>
+    <td><p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=benny-abhishek&theme=midnight_purple"></td></p>
+    <td><p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=benny-abhishek&theme=midnight_purple"></td></p>
    </tr>
 </table>
  
 <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=benny-abhishek&theme=codeSTACKr"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=benny-abhishek&theme=midnight_purple"/>
 </p>
 <p>
-    <img src="https://streak-stats.demolab.com?user=benny-abhishek&theme=codeSTACKr" />
+    <img src="https://streak-stats.demolab.com?user=benny-abhishek&theme=midnight_purple" />
 </p>
 
 ### Connect with me
