@@ -4,9 +4,7 @@
 
 ![gitartwork](gitartwork.svg)
 
-### Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=benny-abhishek&margin-w=5&row=1&theme=buefy)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### So...
 
@@ -20,12 +18,31 @@
 
 ### Skill Set
 
-<a href=""><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="60px" width="60px" /></a>
-<a href=""><img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSEb1eJmC_nK58zjKkqnP5vfSOrPUVJRKbVA&usqp=CAU" height="60px" width="100px" /></a>
-<a href=""><img align="left" src="https://www.crn.com/resources/027e-1737ab2a5482-5b472a146614-1000/java-logo.jpeg" height="60px" width="70px" /></a>
-<a href=""><img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBYnWJW6a9-67ePAHwNGAyBuoMCz1E7joVGA&usqp=CAU" height="60px" width="100px" /></a>
-<a href=""><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" height="60px" width="60px" /></a>
-<a href=""><img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/8c/33acbbee2643428c36c2abef24e139/OracleSQL800x800.png?auto=format%2Ccompress&dpr=1" height="60px" width="60px" /></a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,postgres,vscode,git" />
+  </a>
+</p>
+
+### Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=benny-abhishek&margin-w=5&row=1&theme=buefy)](https://github.com/ryo-ma/github-profile-trophy)
+
+### My Stats
+
+<table style="border-collapse: collapse;">
+   <tr>
+    <td><p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=benny-abhishek&theme=codeSTACKr"></td></p>
+    <td><p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=benny-abhishek&theme=codeSTACKr"></td></p>
+   </tr>
+</table>
+ 
+<p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=benny-abhishek&theme=codeSTACKr"/>
+</p>
+<p>
+    <img src="https://streak-stats.demolab.com?user=benny-abhishek&theme=codeSTACKr" />
+</p>
 
 ### Connect with me
 
